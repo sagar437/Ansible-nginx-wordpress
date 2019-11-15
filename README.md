@@ -1,2 +1,2 @@
 # Ansible-nginx-wordpress
-Project to deploy wordpress site over nginx using Ansible
+Ansible playbook to deploy wordpress site over nginx on centos7.
